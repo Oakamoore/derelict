@@ -26,7 +26,7 @@
 This project was built with [Unreal Engine 4.27.2](https://docs.unrealengine.com/4.27/en-US/), and should work as expected on that version. Downgrading or upgrading this project to a different version of Unreal Engine may cause issues.
 
 ***
-1. Clone this repository with git clone `https://github.com/Oakamoore/derelict.git`
+1. Clone this repository with `git clone https://github.com/Oakamoore/derelict.git`
 2. Double click `Derelict.uproject`
 	- Wait for the project to open	
 
