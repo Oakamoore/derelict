@@ -33,12 +33,9 @@ This project was built with [Unreal Engine 4.27.2](https://docs.unrealengine.com
 Once the project is open in Unreal Engine, navigate to `Maps/MainMenu`, then hit play (`ALT + P`).
 ***
 
-This project is also available over on [itch.io](https://itch.io/) as a downloadable executable:
-
-
 <div align="center">
 	<a href="https://oakamoore.itch.io/derelict">
-		 <img src="https://github.com/user-attachments/assets/a2a9041e-ec5f-4ff7-8678-aff3064d4d54" width="400px"/>
+		 <img src="https://github.com/user-attachments/assets/0d1e5290-21cc-4970-aa4b-507789f51f21" width="200"/>
 	</a>
 </div>
 
